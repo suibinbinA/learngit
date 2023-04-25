@@ -1,6 +1,2 @@
-rootProject.name = "maserati-android-app"
-include ':app'
-include ':base'
-include ':center'
-include ':private_charge'
-include ':open_charge'
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
